@@ -1,0 +1,19 @@
+trendingNews
+
+breaking news please
+please show me the breaking news
+breaking news
+trending news
+trending news please
+please show me the trending news
+
+SearchNews
+please tell me the news about {word}
+please show me the news about {word}
+get me the news about {word}
+news about {word}
+show me the news about {word}
+tell me news about {word}
+{word} news
+
+
